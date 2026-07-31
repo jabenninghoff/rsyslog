@@ -1,0 +1,13 @@
+# rsyslog compose example
+services:
+  rsyslog:
+    # image: ghcr.io/jabenninghoff/rsyslog:version # uncomment and use with specific version number for production
+    image: rsyslog:dev # use with docker-build.sh for local development, remove for production
+    restart: unless-stopped
+    hostname: rsyslog.test
+    ports:
+      - "514:514" # syslog
+    volumes:
+      - ./log:/var/log
+    environment:
+      - TZ=UTC
