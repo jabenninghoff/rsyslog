@@ -6,7 +6,8 @@ services:
     restart: unless-stopped
     hostname: rsyslog.test
     ports:
-      - "514:514" # syslog
+      - "514:514/udp" # syslog
+      - "514:514/tcp" # syslog
     volumes:
       - ./log:/var/log
     environment:
