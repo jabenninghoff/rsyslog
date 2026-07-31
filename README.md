@@ -43,11 +43,11 @@ rsyslog has one test suite:
 `image-tests.sh` runs the following tests, which require a locally built docker image using `docker-build.sh`:
 
 - `apk-list.sh`: errors if installed `apk` packages have changed
-- `rsyslog-default.sh`: errors if the rsyslog default configuration has changed
+- `rsyslog-defaults.sh`: errors if the rsyslog default configuration has changed
 - `startup.sh`: starts a rsyslog container and immediately exits
 - `docker-header.sh`: places the Dockerfile version header on the clipboard
-- `./apk-upgrade.sh`: errors if updated `apk` packages are available
+- `apk-upgrade.sh`: errors if updated `apk` packages are available
 
-After the image tests pass, the version header in can be pasted in the `Dockerfile` (for changes).
+After the image tests pass, the version header can be pasted in the `Dockerfile` (for changes).
 
 The full Docker Compose test environment uses dnsmasq to redirect `.local` to localhost (127.0.0.1).

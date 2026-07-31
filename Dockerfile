@@ -12,7 +12,7 @@ ENV RSYSLOG_VERSION="${RSYSLOG_VERSION}"
 RUN cp -p /etc/rsyslog.conf /etc/rsyslog.conf.dist
 COPY rootfs/ /
 
-EXPOSE 514
+EXPOSE 514/udp 514/tcp
 VOLUME [ "/var/log" ]
 
 ENTRYPOINT [ "/opt/rsyslog/sbin/docker-entrypoint.sh" ]
