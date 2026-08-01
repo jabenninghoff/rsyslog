@@ -2,7 +2,7 @@
 set -e
 
 entrypoint_log() {
-    # match rsyslog format
+    # match rsyslog timestamp format
     echo "$(date +'%Y-%m-%d %H:%M:%S') rsyslog: $*"
 }
 
