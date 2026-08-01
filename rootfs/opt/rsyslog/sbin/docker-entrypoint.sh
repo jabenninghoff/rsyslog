@@ -2,7 +2,8 @@
 set -e
 
 entrypoint_log() {
-    echo "rsyslog: $*"
+    # match rsyslog format
+    echo "$(date +'%Y-%m-%d %H:%M:%S') rsyslog: $*"
 }
 
 entrypoint_log "version ${RSYSLOG_VERSION:-unknown} starting"
