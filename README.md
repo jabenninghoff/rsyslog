@@ -2,6 +2,8 @@
 
 [rsyslog](https://www.rsyslog.com) Docker image based on [Alpine Linux](https://alpinelinux.org). Implemented as an alternative to the official rsyslog [image](https://hub.docker.com/r/rsyslog/rsyslog), which uses Ubuntu and only offers Intel (`amd64`) images.
 
+The default configuration (`/etc/rsyslog.conf`) listens on udp and tcp port 514 (syslog), writes remote files to `/var/log/hostname-programname-YYYY-MM-DD.log`, and writes local logs to stdout. Replace the default configuration or add additional files using bind mounts (`/etc/rsyslog.conf` or `/etc/rsyslog.d/`).
+
 Based on [nasmail](https://github.com/jabenninghoff/nasmail).
 
 ## Docker Image
