@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/jabenninghoff/rsyslog/compare/v1.0.0...v1.0.1) (2026-08-01)
+
+
+### Bug Fixes
+
+* add rsyslog message format templates ([b4741ae](https://github.com/jabenninghoff/rsyslog/commit/b4741aeedc515c3912dd206ce17aa360f2e303e3))
+
 ## 1.0.0 (2026-08-01)
 
 
