@@ -3,4 +3,4 @@
 # requires: docker-build.sh
 set -e
 
-docker run --rm --hostname rsyslog.test rsyslog:dev rsyslogd -N1
+docker run --rm --hostname rsyslog.test rsyslog:dev sh
