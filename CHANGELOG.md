@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.2](https://github.com/jabenninghoff/rsyslog/compare/v1.0.1...v1.0.2) (2026-08-30)
+
+
+### Bug Fixes
+
+* bump actions/attest from 4.2.0 to 4.2.2 ([9afafcf](https://github.com/jabenninghoff/rsyslog/commit/9afafcfa00b7dfd656a6e53a35275b12025ddd98))
+* bump docker/login-action from 4.5.1 to 4.6.0 ([0873758](https://github.com/jabenninghoff/rsyslog/commit/0873758a3cedb3e62078dc46ff8bda71c682b5af))
+* bump docker/setup-buildx-action from 4.2.0 to 4.3.0 ([831366d](https://github.com/jabenninghoff/rsyslog/commit/831366dd0412684090f3fb371d5a2aa1a9002be6))
+* update alpine packages (dependencies) ([07e2a1a](https://github.com/jabenninghoff/rsyslog/commit/07e2a1adb581cca3ee007c6a8e78fc03e0510909))
+
 ## [1.0.1](https://github.com/jabenninghoff/rsyslog/compare/v1.0.0...v1.0.1) (2026-08-01)
 
 
