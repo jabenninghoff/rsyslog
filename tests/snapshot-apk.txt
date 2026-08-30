@@ -8,10 +8,10 @@ busybox-binsh 1.37.0-r31
 ca-certificates-bundle 20260611-r0
 libapk 3.0.7-r0
 libcap-ng 0.8.5-r2
-libcrypto3 3.5.7-r0
+libcrypto3 3.5.8-r0
 libestr 0.1.11-r4
 libfastjson 1.2304.0-r4
-libssl3 3.5.7-r0
+libssl3 3.5.8-r0
 libuuid 2.42.1-r0
 musl 1.2.6-r2
 musl-utils 1.2.6-r2
