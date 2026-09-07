@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/jabenninghoff/rsyslog/compare/v1.0.2...v1.0.3) (2026-09-07)
+
+
+### Bug Fixes
+
+* update alpine packages (dependencies) ([1477f19](https://github.com/jabenninghoff/rsyslog/commit/1477f199d618ba2f93f8082e41a807e8e68d799f))
+
 ## [1.0.2](https://github.com/jabenninghoff/rsyslog/compare/v1.0.1...v1.0.2) (2026-08-30)
 
 
