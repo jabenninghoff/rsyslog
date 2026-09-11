@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/jabenninghoff/rsyslog/compare/v1.0.3...v1.0.4) (2026-09-11)
+
+
+### Bug Fixes
+
+* bump docker/setup-qemu-action from 4.2.0 to 4.3.0 ([361c5d5](https://github.com/jabenninghoff/rsyslog/commit/361c5d559933abd0b5c22b14db27f42e13d756b4))
+
 ## [1.0.3](https://github.com/jabenninghoff/rsyslog/compare/v1.0.2...v1.0.3) (2026-09-07)
 
 
