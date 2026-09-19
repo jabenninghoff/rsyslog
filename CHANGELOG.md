@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://github.com/jabenninghoff/rsyslog/compare/v1.0.3...v1.1.0) (2026-09-19)
+
+
+### Features
+
+* bump alpine from 3.24.1 to 3.24.2 ([e88763a](https://github.com/jabenninghoff/rsyslog/commit/e88763aa4e3ed70d8b3c982ce0e9fb11263be60f))
+
+
+### Bug Fixes
+
+* bump docker/setup-qemu-action from 4.2.0 to 4.3.0 ([361c5d5](https://github.com/jabenninghoff/rsyslog/commit/361c5d559933abd0b5c22b14db27f42e13d756b4))
+* update alpine packages (dependencies) ([b8f7538](https://github.com/jabenninghoff/rsyslog/commit/b8f753897e0f2ffc8a01fa944a7998012124e453))
+
 ## [1.0.3](https://github.com/jabenninghoff/rsyslog/compare/v1.0.2...v1.0.3) (2026-09-07)
 
 
