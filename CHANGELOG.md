@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.1.1](https://github.com/jabenninghoff/rsyslog/compare/v1.1.0...v1.1.1) (2026-09-25)
+
+
+### Bug Fixes
+
+* bump alpine from 31b6477 to 294b683 ([fd83951](https://github.com/jabenninghoff/rsyslog/commit/fd839519b46aac36f00158880deb0009358c2c56))
+* bump docker/build-push-action from 7.3.0 to 7.4.0 ([f137ac1](https://github.com/jabenninghoff/rsyslog/commit/f137ac16f9c23750885f738bc6d6c52b564b8ad0))
+* bump docker/setup-buildx-action from 4.3.0 to 4.4.1 ([bc276f7](https://github.com/jabenninghoff/rsyslog/commit/bc276f72453df58849b95c11163a4011e77514a0))
+* bump docker/setup-qemu-action from 4.3.0 to 4.4.0 ([e165d93](https://github.com/jabenninghoff/rsyslog/commit/e165d93167f480d6c883c1cc9b87ceec3454fe57))
+
 ## [1.1.0](https://github.com/jabenninghoff/rsyslog/compare/v1.0.3...v1.1.0) (2026-09-19)
 
 
