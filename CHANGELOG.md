@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/jabenninghoff/rsyslog/compare/v1.1.3...v1.2.0) (2026-10-24)
+
+
+### Features
+
+* bump alpine from 3.24.2 to 3.24.3 ([14b4322](https://github.com/jabenninghoff/rsyslog/commit/14b4322b9463c7c515f516ff492c5d196707ca88))
+
 ## [1.1.3](https://github.com/jabenninghoff/rsyslog/compare/v1.1.2...v1.1.3) (2026-10-09)
 
 
