@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/jabenninghoff/rsyslog/compare/v1.2.0...v1.2.1) (2026-10-30)
+
+
+### Bug Fixes
+
+* bump docker/login-action from 4.6.0 to 4.7.0 ([974081a](https://github.com/jabenninghoff/rsyslog/commit/974081a43e6aceb47ab7948743ee86676fe0d821))
+
 ## [1.2.0](https://github.com/jabenninghoff/rsyslog/compare/v1.1.3...v1.2.0) (2026-10-24)
 
 
