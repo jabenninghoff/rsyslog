@@ -1,6 +1,6 @@
 FROM alpine:3.24.4@sha256:93b41ef40b1677fce8fcc64ff4af09daddfacf5040afde618bc46c1e2d1cc7d4
 
-# rsyslog 8.2604.0-r0
+# rsyslog 8.2608.0-r0
 # major updates are features, other updates are fixes
 RUN apk upgrade --no-cache && \
     apk add --no-cache rsyslog
