@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.1](https://github.com/jabenninghoff/rsyslog/compare/v1.2.0...v1.2.1) (2026-11-06)
+
+
+### Bug Fixes
+
+* bump alpine from 3.24.3 to 3.24.4 ([05c962a](https://github.com/jabenninghoff/rsyslog/commit/05c962abd4197be86bee589672d484a1ad645f40))
+* bump docker/login-action from 4.6.0 to 4.7.0 ([974081a](https://github.com/jabenninghoff/rsyslog/commit/974081a43e6aceb47ab7948743ee86676fe0d821))
+* update rsyslog to 8.2608.0-r0 ([b1b89f9](https://github.com/jabenninghoff/rsyslog/commit/b1b89f935f17035644c2012f8fc9bad6001d9895))
+
 ## [1.2.0](https://github.com/jabenninghoff/rsyslog/compare/v1.1.3...v1.2.0) (2026-10-24)
 
 
