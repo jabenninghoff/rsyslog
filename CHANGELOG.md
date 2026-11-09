@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/jabenninghoff/rsyslog/compare/v1.2.1...v1.2.2) (2026-11-09)
+
+
+### Bug Fixes
+
+* update alpine packages ([f23bc3d](https://github.com/jabenninghoff/rsyslog/commit/f23bc3dd4a6b5ab57d5a5e5b03c76e0a1835aba9))
+
 ## [1.2.1](https://github.com/jabenninghoff/rsyslog/compare/v1.2.0...v1.2.1) (2026-11-06)
 
 
