@@ -14,4 +14,6 @@ entrypoint_log "using HOSTNAME ${HOSTNAME:-unknown}"
 entrypoint_log "checking rsyslogd configuration"
 rsyslogd -N1
 
+entrypoint_log "entrypoint script complete"
+
 exec "$@"
