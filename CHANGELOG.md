@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.4](https://github.com/jabenninghoff/rsyslog/compare/v1.2.3...v1.2.4) (2026-11-11)
+
+
+### Bug Fixes
+
+* bump alpine from `93b41ef` to `f59abe6` ([f30ee55](https://github.com/jabenninghoff/rsyslog/commit/f30ee553e15bb535d8c5414e2c5e852e5da777fc))
+
 ## [1.2.3](https://github.com/jabenninghoff/rsyslog/compare/v1.2.2...v1.2.3) (2026-11-11)
 
 
