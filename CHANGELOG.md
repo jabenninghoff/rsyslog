@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.5](https://github.com/jabenninghoff/rsyslog/compare/v1.2.4...v1.2.5) (2026-11-20)
+
+
+### Bug Fixes
+
+* bump docker/login-action from 4.7.0 to 4.8.0 ([45f263a](https://github.com/jabenninghoff/rsyslog/commit/45f263a7bf113781e7d0fe50b20074ae9caa2841))
+* update alpine packages ([61d52d4](https://github.com/jabenninghoff/rsyslog/commit/61d52d48280d0bcc10c4f6e2208ebf43cc69191b))
+* update cooldown settings ([94c78bd](https://github.com/jabenninghoff/rsyslog/commit/94c78bd43bdbefc8c147aec3cc6038ed4cd9bf79))
+
 ## [1.2.4](https://github.com/jabenninghoff/rsyslog/compare/v1.2.3...v1.2.4) (2026-11-11)
 
 
