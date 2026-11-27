@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.7](https://github.com/jabenninghoff/rsyslog/compare/v1.2.6...v1.2.7) (2026-11-27)
+
+
+### Bug Fixes
+
+* upgrade rsyslog to 8.2610.0-r1 ([1162ef5](https://github.com/jabenninghoff/rsyslog/commit/1162ef577bf0039154ab11b9ece933ca9900f780))
+
 ## [1.2.6](https://github.com/jabenninghoff/rsyslog/compare/v1.2.5...v1.2.6) (2026-11-25)
 
 
